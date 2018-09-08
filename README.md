@@ -7,7 +7,6 @@ Neural Style Transfer used for tranferring a picaso styled image to a content im
 <img align="left" width="200" height="200" src='./data/styles/simg.jpg'>
 <img align="left" width="200" height="200" src='./data/sample12.jpg'>
 
-Content Image, Style Image and Combined Image respectively.
 
 
 ## GIF Representation:
